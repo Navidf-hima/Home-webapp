@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "KCH",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Khome",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "This is a app for bachelor for maintain there daily activities and maintain the budgets.",
+  "id": "/"
+}
